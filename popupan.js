@@ -1,5 +1,5 @@
 
-	var url_popup = 'tinbatdongsan247.vn';
+	var url_popup = 'http://tinbatdongsan247.vn';
 
       //<![CDATA[
 	  // var url_ppp = 'http://tinbatdongsan247.vn';
